@@ -1,4 +1,6 @@
-
+<script>
+//function for displaying values
+function dis(val)
 {
 document.getElementById("edu").value+=val
  }
