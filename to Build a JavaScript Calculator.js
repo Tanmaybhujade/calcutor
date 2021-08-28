@@ -1,4 +1,5 @@
-<script>...
+<script>..
+
 //function for displaying values
 function dis(val)
 {
